@@ -1,0 +1,2 @@
+# DotNetCore
+First.netcore console
